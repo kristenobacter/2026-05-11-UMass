@@ -95,7 +95,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-This workshop is focused on Unix Shell and version control with Git. We are planning on covering <a href="https://swcarpentry.github.io/shell-novice/">Unix<\a> and <a href="https://swcarpentry.github.io/git-novice/">Git<\a>; the rest of the curricular materials (including translations in Spanish) can be found <a href="https://software-carpentry.org/lessons/">here<\a>.  
+This workshop is focused on Unix Shell and version control with Git. We are planning on covering <a href="https://swcarpentry.github.io/shell-novice/">Unix</a> and <a href="https://swcarpentry.github.io/git-novice/">Git</a>; the rest of the curricular materials (including translations in Spanish) can be found <a href="https://software-carpentry.org/lessons/">here</a>.  
 </p>
 
 <p>
