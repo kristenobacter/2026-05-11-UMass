@@ -95,6 +95,14 @@ the pitch.
 {% endcomment %}
 
 <p>
+This workshop is focused on Unix Shell and version control with Git. We are planning on covering <a href="https://swcarpentry.github.io/shell-novice/">Unix<\a> and <a href="https://swcarpentry.github.io/git-novice/">Git<\a>; the rest of the curricular materials (including translations in Spanish) can be found <a href="https://software-carpentry.org/lessons/">here<\a>.  
+</p>
+
+<p>
+  The target audience is learners who have little to no prior computational experience, and the instructors put a priority on creating a friendly environment to empower researchers and enable data-driven discovery. Even those with some experience will benefit, as the goal is to teach not only how to do analyses, but how to manage the process to make it as automated and reproducible as possible.
+</p>
+
+<p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
